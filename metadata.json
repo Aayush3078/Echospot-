@@ -1,0 +1,7 @@
+{
+  "name": "EchoSpot",
+  "description": "Discover and share unique, crowd-free spots with EchoSpot, powered by Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
